@@ -1,0 +1,316 @@
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .vetcare-head-padding{
+        padding-left: 200px;
+        padding-right: 200px;
+        padding-bottom: 50px;
+    }
+    .recent-post-head{
+        padding-left: 210px;
+        padding-right: 210px;
+    }
+    footer form input{
+        width: 240px;
+    }
+    }
+
+
+
+    @media only screen and (min-width:768px) and (max-width:991px){
+        .banner h1{
+            font-size: 34px;
+        }
+        .banner p{
+            font-size: 20px;
+        }
+        .care-text h3{
+            font-size: 23px;
+        }
+        .our-service h1{
+            font-size: 34px;
+        }
+        .our-service p{
+            font-size: 20px;
+        }
+        .title-here .title-content h1{
+            font-size: 38px;
+        }
+        .title-here .title-content p{
+            font-size: 20px;
+        }
+        .care-text p {
+            font-size: 15px;
+        }
+        .play-btn-part h1{
+            font-size: 32px;
+        }
+        .play-btn-part p{
+            font-size: 20px;
+        }
+        .vetcare-head-padding{
+            padding-left: 90px;
+            padding-right: 90px;
+        }
+        .vetcare-head-padding h1{
+            font-size: 44px;
+        }
+        .vetcare b{
+            font-size: 19px;
+        }
+        .vetcare span {
+            font-size: 16px;
+        }
+        .recent-post-head{
+            padding-left: 90px;
+            padding-right: 90px;
+        }
+        .recent-post-head h1{
+            font-size: 36px;
+        }
+        .recent-post-head p {
+            font-size: 19px;
+        }
+        .recent-post-texts{
+            padding-left: 14px;
+            padding-right: 14px;
+        }
+        .recent-post-texts h3{
+            font-size: 18px;
+        }
+        .recent-post-texts p{
+            font-size: 14px;
+        }
+        footer p{
+            font-size: 16px;
+        }
+        footer form input{
+            width: 164px;
+        }
+
+        }
+
+
+
+
+ @media only screen and (min-width:576px) and (max-width:767px){
+    .banner h1{
+        font-size: 28px;
+    }
+    .banner p{
+        font-size: 16px;
+        padding-bottom: 13px;
+    }
+    .banner a{
+        padding: 6px 10px 6px 10px;
+    }
+    .our-service h1{
+        font-size: 24px;
+        padding-bottom: 8px;
+    }
+    .our-service p {
+        font-size: 16px;
+        padding-bottom: 15px;
+    }
+    .our-service .btn-our-service{
+        padding: 4px 8px 4px 8px;
+    }
+    .title-here .title-content h1{
+        font-size: 36px;
+    }
+    .title-here .title-content p {
+        font-size: 20px;
+    }
+    .care-text h3{
+    font-size: 22px;
+
+    }
+    .care-text p {
+        font-size: 14px;
+    }
+    .play-btn-part h1{
+        font-size: 22px;
+        padding-bottom: 6px;
+    }
+    .play-btn-part p{
+        font-size: 15px;
+        padding-bottom: 8px;
+    }
+    .play-btn-part a{
+        padding: 6px 8px 6px 8px;
+    }
+    .price-part del{
+        padding-right: 15px;
+    }
+    .price-part del, .price-part span{
+        font-size: 20px;
+    }
+    .price-part {
+        padding-top: 14px;
+        padding-bottom: 18px;
+    }
+    .care-text a{
+        padding: 4px 10px 4px 10px;
+    }
+    .vetcare-head-padding{
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 40px;
+    }
+    .vetcare-head-padding h1{
+        font-size: 30px;
+    }
+    .vetcare-head-padding p{
+        font-size: 16px;
+    }
+    .vetcare b {
+        font-size: 14px;
+    }
+    .vetcare span {
+        font-size: 15px;
+    }
+    .vetcare ul li a{
+        padding: 2px 2px 2px 2px;
+    }
+    .vetcare ul li{
+        padding-right: 7px;
+    }
+    .hpy-client h4 {
+        padding-top: 15px;
+        font-size: 18px;
+    }
+    .hpy-client b {
+        font-size: 16px;
+    }
+    .hpy-client{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .recent-post-head{
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 28px;
+    }
+    .recent-post-head h1{
+        font-size: 36px;
+    }
+    .recent-post-head p {
+        font-size: 18px;
+    }
+    .recent-post-texts{
+        padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    }
+    .recent-post-texts h3 {
+        font-size: 14px;
+    }
+    .recent-post-texts span{
+        font-size: 13px;
+    }
+    .recent-post-texts p{
+        font-size: 14px;
+    }
+    .recent-post-texts a{
+        font-size: 15px;
+    }
+    .recent-post{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    footer h4{
+        font-size: 20px;
+    }
+    footer ul{
+        padding-top: 14px;
+    }
+    footer ul li{
+        font-size: 16px;
+    }
+    footer form input{
+        width: 101px;
+    height: 40px;
+    }
+    footer form button{
+        height: 40px;
+    }
+    footer .ftr-social ul li{
+        padding-right: 3px;
+    }
+    footer p{
+        font-size: 12px;
+    }
+  }
+
+
+
+
+
+  @media only screen and (max-width:540px){
+    .recent-post-head{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .vetcare-head-padding{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .banner h1{
+        font-size: 38px;
+    padding-bottom: 12px;
+    }
+    .banner p{
+        font-size: 20px;
+    }
+    .our-service h1{
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+    .our-service p {
+        font-size: 18px;
+        padding-bottom: 17px;
+    }
+    .title-here .title-content h1 {
+        font-size: 34px;
+        padding-bottom: 6px;
+    }
+    .title-here .title-content p {
+        font-size: 15px;
+    }
+    .play-btn-part h1{
+        font-size: 25px;
+    padding-bottom: 3px;
+    }
+    .play-btn-part p{
+        font-size: 18px;
+    }
+    .price-part {
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+    .price-part del {
+        padding-right: 26px;
+    }
+    .price-part del, .price-part span {
+        font-size: 26px;
+    }
+    .vetcare-head-padding h1{
+        font-size: 36px;
+    }
+    .vetcare-head-padding p{
+        font-size: 17px;
+    }
+    .recent-post-head h1{
+        font-size: 36px;
+    }
+    .recent-post-head p {
+        font-size: 17px;
+    }
+    footer form input{
+        width: 296px;
+    }
+    footer p {
+        padding-bottom: 17px;
+    }
+    
+    }
+    
